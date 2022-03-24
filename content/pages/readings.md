@@ -506,7 +506,7 @@ Conclusions
 
 Pounds, William. "The Process of Problem Finding." _Industrial Management Review_ 11 (Fall 1969): 1-19.
 
-Scharmer, Otto. "Addressing the Blind Spot of Our Time: An Executive Summary of Theory U." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4 MB](https://solonline.org/wp-content/uploads/2016/12/Exec_Summary_Sept19-Theory-U-leading-from-the-emerging-future-copy.pdf))
+Scharmer, Otto. "Addressing the Blind Spot of Our Time: An Executive Summary of Theory U." ([PDF - 4.4 MB](https://solonline.org/wp-content/uploads/2016/12/Exec_Summary_Sept19-Theory-U-leading-from-the-emerging-future-copy.pdf))
 
 
 {{< tdclose >}}
