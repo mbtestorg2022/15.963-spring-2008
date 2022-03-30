@@ -5,6 +5,7 @@ description: Lecture notes from the final lecture session with closing reflectio
   relational contracts, structural advantages, and management of strategic change.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-963-advanced-strategy-spring-2008/fb2cb109f76887d5c94ad7d707386215_lec24.pdf
 file_type: application/pdf
+parent_uid: 75bee32d-d5fb-b24e-45ee-de0cc5b13819
 resourcetype: Document
 title: Closing Reflections
 uid: fb2cb109-f768-87d5-c94a-d7d707386215

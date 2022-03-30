@@ -6,6 +6,7 @@ description: Lecture notes on formal versus relational contracts, taken from a d
   permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-963-advanced-strategy-spring-2008/78b0690c5643dd77af45b20a608230b4_gibbons4.pdf
 file_type: application/pdf
+parent_uid: 2238a7ac-ee90-9323-869b-9c96199e208a
 resourcetype: Document
 title: Make, Buy, or Cooperate?
 uid: 78b0690c-5643-dd77-af45-b20a608230b4
